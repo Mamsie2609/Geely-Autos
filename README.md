@@ -53,7 +53,7 @@ The dataset contains the following columns:
 
 - stroke: Stroke or volume inside the engine.      
 
-- compressionrato: compression ratio of car. 
+- compressionratio: compression ratio of car. 
 
 - horsepower: Horsepower.
 
